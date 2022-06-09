@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo **, Python MySQL e Banco de dados**
 
-- 💬 Me perguntar sobre **Python, MySQL e Banco de dados**
+- 💬 Me perguntar sobre **Python,MySQL e Banco de dados**
 
 - 📫 Você me acha através do e-mail **ant.gilbertosantos.com.br**
 
