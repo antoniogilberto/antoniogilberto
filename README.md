@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a3dee&height=80&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4a3dee&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Antônio+Gilberto;Eu+tenho+26+anos;Eu+sou+de+Fortaleza/CE;Sou+estudante+de+Engenharia+Civil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
