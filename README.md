@@ -16,17 +16,55 @@
 
 ![Antônio Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogilberto&show_icons=true&theme=gotham)
 
-<div align="center">  
+<div align="right">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogilberto&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-## Hard Skills
+## Hard Skills - Conhecimento
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=red)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+
+<div style="flex-basis: 48%; display: flex; align-items: center; background-color: #0D1117; border-radius: 20px; padding: 5px 10px; color: white; font-family: Arial, sans-serif; font-weight: bold;">
+  <h3 style="color: white;">Programming Languages</h3>
+  <div style="display: flex; align-items: center; margin-left: 10px;">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <!-- Texto "Python" atualizado para maiúsculas -->
+    <span style="margin-left: 10px; font-size: 50px; font-weight: bold; color: red;">PYTHON</span>
+  </div>
+</div>
+
+
+<div style="flex-basis: 48%; display: flex; align-items: center; background-color: #0D1117; border-radius: 20px; padding: 5px 10px; color: white; font-family: Arial, sans-serif; font-weight: bold;">
+  <h3 style="color: white;">Programming Languages</h3>
+  <div style="display: flex; align-items: center; margin-left: 10px;">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <!-- Texto em negrito -->
+    <span style="margin-left: 10px; font-size: 50px; font-weight: bold; color: red; text-shadow: 2px 2px 8px #000;">PYTHON</span>
+  </div>
+</div>
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogilberto&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ## Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
