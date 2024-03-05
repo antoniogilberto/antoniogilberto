@@ -17,41 +17,32 @@
 ![Antônio Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogilberto&show_icons=true&theme=gotham)
 
 
-## Hard Skills - Conhecimento
+## Hard Skills - Conhecimento      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            Habilidade:                      esasas
 
 <div style="flex-basis: 48%;">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong>
-    <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong>
-    <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> <strong>SQLite</strong>
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <strong>PostgreSQL</strong>
+    <img align="center" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong>        
+    <img align="center" alt="PostgreSQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <strong>PostgreSQL</strong>
+    <img align="center" alt="GitHube" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHube</strong>
+    <img align="center" alt="VScode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong>
+    <img align="center" alt="Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> <strong>Dbeaver</strong>
 </div>
 
-## Aprendendo
 <div style="flex-basis: 48%;">
+ <h3>Estudando no Momento&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estudando no Momento</h3>
     <img align="center" alt="Google_Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-cloud/google-cloud-original.svg"> <strong>Google_Cloud</strong>
-</div>
-
-
-<div style="flex-basis: 48%;">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <strong>PYTHON</strong>
 </div>
 
 
 
-<div align="right">  
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogilberto&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+
+
+
+
+
+<div style="flex-basis: 48%;">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <strong>PYTHON</strong>
 </div>
-
-
-## Estudando
-
-
-
-
-
-
-
-
 
 
 
