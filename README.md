@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4a3dee&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Antônio+Gilberto;Eu+tenho+26+anos;Eu+sou+de+Fortaleza/CE;Sou+estudante+de+Engenharia+Civil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/AntonioGilbero/antoniogilbero/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
@@ -18,7 +18,7 @@
 
 ## Hard Skills - Conhecimento
 
-
+<h3>Database</h3>
 <table>
   <tr>
     <td align="center">
@@ -39,14 +39,11 @@
 
 <div style="flex-basis: 28%;">
   <h3>Database</h3>
-  <div><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
-  <div><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">     
-  <strong>PostgreSQL</strong></div>
-  <div><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> 
-  <strong>Dbeaver</strong></div>
+  <div><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>Git</strong></div>
+  <div><img align="center" alt="BigQuery" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bigquery/big-original.svg"> <strong>Git</strong></div>
+
 </div>
 
-  <div><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHub</strong></div>
   <div><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong> 
   </div>
 
