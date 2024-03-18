@@ -18,15 +18,38 @@
 
 ## Hard Skills - Conhecimento
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25"><br>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"><br>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="Dbeaver" width="25" height="25"><br>
+      <strong>Dbeaver</strong>
+    </td>
+  </tr>
+</table>
+
+
 <div style="flex-basis: 28%;">
+  <h3>Database</h3>
   <div><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
   <div><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">     
   <strong>PostgreSQL</strong></div>
+  <div><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> 
+  <strong>Dbeaver</strong></div>
+</div>
+
   <div><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHub</strong></div>
   <div><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong> 
   </div>
-  <div><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> 
-  <strong>Dbeaver</strong></div>
+
   <div><img align="center" alt="Microsoft_Azure" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
   <strong>Microsoft_Azure</strong></div>
   <div><img align="center" alt="Figma" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> <strong>Figma</strong></div>
