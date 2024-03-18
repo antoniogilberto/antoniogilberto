@@ -19,7 +19,7 @@
 
 ![Antônio Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogilberto&show_icons=true&theme=gotham)
 
-![Antônio Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogilberto&show_icons=true&bg_color=000000&icon_color=0078D4&title_color=4a3dee&text_color=4a3dee&border_color=0078D4)
+![Antônio Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogilberto&show_icons=true&bg_color=000000&icon_color=0078D4&title_color=4a3dee&text_color=FFFFFF&border_color=0078D4)
 
 
 
