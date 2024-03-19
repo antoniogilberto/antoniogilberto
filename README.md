@@ -68,34 +68,40 @@
 
 
 
+<h3>Development Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/354259/dbt-icon.svg" alt="dbt" width="25" height="25"><br>
+      <strong>DBT</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="25" height="25"><br>
+      <strong>VSCode</strong>
+    </td>
+  </tr>
+</table>
 
 
+<h3>Cloud Platform</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="25" height="25"><br>
+      <strong>GCP</strong>
+    </td>
+  </tr>
+</table>
 
-
-<div style="flex-basis: 28%;">
-  <h3>Database</h3>
-  <div><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>Git</strong></div>
-  <div><img align="center" alt="BigQuery" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bigquery/big-original.svg"> <strong>Git</strong></div>
-
-</div>
-
-  <div><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong> 
-  </div>
-
-  <div><img align="center" alt="Microsoft_Azure" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-  <strong>Microsoft_Azure</strong></div>
-  <div><img align="center" alt="Figma" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> <strong>Figma</strong></div>
-  <div><img align="center" alt="Linux" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> <strong>Linux</strong></div>
-  <div><img align="center" alt="MySQL" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> <strong>MySQL</strong> 
-  </div>
-  <div><img align="center" alt="GoogleCloud" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"> <strong>Google 
-  Cloud</strong></div>
-  <div><img align="center" alt="AWS Cloud" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original- 
-  wordmark.svg"> <strong>AWS Cloud</strong></div>
-  <div><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL Database 
- System</strong></div>
-</div>
-
+<h3>Design Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="25" height="25"><br>
+      <strong>Figma</strong>
+    </td>
+  </tr>
+</table>
 
 
 
