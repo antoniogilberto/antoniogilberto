@@ -18,9 +18,9 @@
 ![Antônio Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogilberto&show_icons=true&bg_color=000000&icon_color=4a3dee&title_color=0078D4&text_color=FFFFFF&border_color=0078D4)
 
 
-## Hard Skills - Conhecimento
+## - Hard Skills - Conhecimento
 
-<h3>Database</h3>
+<h3>Database Management</h3>
 <table>
   <tr>
     <td align="center">
@@ -35,8 +35,41 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="Dbeaver" width="25" height="25"><br>
       <strong>Dbeaver</strong>
     </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="BigQuery" width="25" height="25"><br>
+      <strong>BigQuery</strong>
+    </td>
   </tr>
 </table>
+
+
+
+<h3>Collaboration & Version Control</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"><br>
+      <strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="25" height="25"><br>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="25" height="25"><br>
+      <strong>Trello</strong>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Bitrix_logo.svg" alt="Bitrix24" width="25" height="25"><br>
+      <strong>Bitrix24</strong>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 <div style="flex-basis: 28%;">
