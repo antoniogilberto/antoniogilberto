@@ -42,6 +42,7 @@
   </tr>
 </table>
 
+<img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic4.gif?raw=true" min-width="400px" max-width="400px" width="350px" align="right" alt="GIF de Programação">
 
 
 <h3>Collaboration & Version Control</h3>
@@ -103,6 +104,7 @@
   </tr>
 </table>
 
+<img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic4.gif?raw=true" min-width="400px" max-width="400px" width="350px" align="right" alt="GIF de Programação">
 
 
 <div style="flex-basis: 48%;">
