@@ -22,25 +22,21 @@
 
 <div style="flex-basis: 28%;">
   <h3>Database Management</h3>
-  <div><span style="margin-right: 10px;">  ●  </span><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
+  <div><span style="margin-right: 10px;">●</span><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
   <div><span style="margin-right: 10px;">●</span><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <strong>PostgreSQL</strong></div>
   <div><span style="margin-right: 10px;">●</span><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> <strong>Dbeaver</strong></div>
+  <div><span style="margin-right: 10px;">●</span><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="BigQuery" width="25" height="25"><br>
+  <strong>BigQuery</strong></div>
 </div>
 
 
 
+<h3>Collaboration & Version Control</h3>
+<div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHub</strong></div>
+<div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong></div>
 
 
-
-<div style="flex-basis: 28%;">
-  <h3>Database Management</h3>
-  <div><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
-  <div><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">     
-  <strong>PostgreSQL</strong></div>
-  <div><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> 
-  <strong>Dbeaver</strong></div>
- </div>
-
+  <h3>Collaboration & Version Control</h3>
   <div><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHub</strong></div>
   <div><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong> 
   </div>
