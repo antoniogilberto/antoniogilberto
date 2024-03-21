@@ -20,6 +20,22 @@
 
 ## - Hard Skills - Conhecimento
 
+<div style="flex-basis: 28%;">
+  <h3>Database Management</h3>
+  <div><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
+  <div><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">     
+  <strong>PostgreSQL</strong></div>
+  <div><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> 
+  <strong>Dbeaver</strong></div>
+ </div>
+
+  <div><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHub</strong></div>
+  <div><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong> 
+  </div>
+
+
+
+
 <h3>Database Management</h3>
 <table>
   <tr>
