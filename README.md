@@ -25,12 +25,16 @@
   <div><span style="margin-right: 5px;">      ●      </span><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
   <div><span style="margin-right: 5px;">      ●      </span><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <strong>PostgreSQL</strong></div>
   <div><span style="margin-right: 5px;">      ●      </span><img align="center" alt="Dbeaver" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"> <strong>Dbeaver</strong></div>
+<div><span style="BigQuery: 25px;">           ●      </span><img align="center" alt="Dbeaver" height="25" width="25" src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/google-bigquery-logo-6E9BA2D0A3-seeklogo.com.png"> <strong>BigQuery</strong></div>
 </div>
 
 
 
 <h3>Collaboration & Version Control</h3>
-<div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="GitHub" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>GitHub</strong></div>
+<div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="Git" height="25" width="25" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>Git</strong></div>
+<div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="Githube" height="25" width="25" 
+src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github-logo-45146A3FBE-seeklogo.com.png"> <strong>Githube</strong></div>
 <div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong></div>
 
 
