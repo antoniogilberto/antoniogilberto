@@ -37,6 +37,26 @@ src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github
 <div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong></div>
 
 
+<h3>Collaboration & Version Control</h3>
+<div style="line-height: 2;">
+    <span style="margin-right: 80px;">
+        <strong>Git</strong>
+        <img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    </span>
+    <span style="margin-right: 80px;">&#9679;</span> <!-- Bolinha preta -->
+    <span style="margin-right: 80px;">
+        <strong>GitHub</strong>
+        <img align="center" alt="GitHub" height="25" width="25" src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github-logo-45146A3FBE-seeklogo.com.png">
+    </span>
+    <span style="margin-right: 80px;">&#9679;</span> <!-- Bolinha preta -->
+    <span>
+        <strong>VScode</strong>
+        <img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    </span>
+</div>
+
+
+
 <div style="flex-basis: 48%;">
  <h3>Studying
 
