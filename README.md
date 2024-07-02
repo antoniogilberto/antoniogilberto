@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4a3dee&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Antônio+Gilberto;Eu+tenho+26+anos;Eu+sou+de+Fortaleza/CE;Sou+estudante+de+Engenharia+Civil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="800px" width="350px" align="right" alt="Computador iuriCode">
 
 
 <details>
@@ -29,6 +29,10 @@
 </div>
 
 
+[![WhatApp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+)](https://wa.me/message/H2V24POVKFDIP1)
+
+
 <h3>Collaboration & Version Control</h3>
 <div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="Git" height="25" width="25" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <strong>Git</strong></div>
@@ -43,12 +47,12 @@ src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github
         <strong>Git</strong>
         <img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     </span>
-    <span style="margin-right: 80px;">&#9679;</span> <!-- Bolinha preta -->
-    <span style="margin-right: 80px;">
+    <span style="margin-right: 8px;">&#9679;</span> <!-- Bolinha preta -->
+    <span style="margin-right: 8px;">
         <strong>GitHub</strong>
         <img align="center" alt="GitHub" height="25" width="25" src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github-logo-45146A3FBE-seeklogo.com.png">
     </span>
-    <span style="margin-right: 80px;">&#9679;</span> <!-- Bolinha preta -->
+    <span style="margin-right: 8px;">&#9679;</span> <!-- Bolinha preta -->
     <span>
         <strong>VScode</strong>
         <img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
