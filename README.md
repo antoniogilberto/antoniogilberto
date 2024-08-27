@@ -25,14 +25,19 @@
   <h3>Database Management</h3>
   <div><span style="margin-right: 5px;">      ●      </span><img align="center" alt="MySQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <strong>MySQL</strong></div>
   <div><span style="margin-right: 5px;">      ●      </span><img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <strong>PostgreSQL</strong></div>
-<div><span style="BigQuery: 25px;">           ●      </span><img align="center" alt="Dbeaver" height="25" width="25" src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/google-bigquery-logo-6E9BA2D0A3-seeklogo.com.png"> <strong>BigQuery</strong></div>
+
 </div>
 
-
+## - Cloud
 [![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 )](https://wa.me/message/H2V24POVKFDIP1)
+
+<div><span style="BigQuery: 25px;">           ●      </span><img align="center" alt="Dbeaver" height="25" width="25" src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/google-bigquery-logo-6E9BA2D0A3-seeklogo.com.png"> <strong>BigQuery</strong></div>
+
+## Data Visualization
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 <h3>Collaboration & Version Control</h3>
@@ -43,23 +48,6 @@ src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github
 <div><span style="margin-right: 5px;">          ●          </span><img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <strong>VScode</strong></div>
 
 
-<h3>Collaboration & Version Control</h3>
-<div style="line-height: 2;">
-    <span style="margin-right: 80px;">
-        <strong>Git</strong>
-        <img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    </span>
-    <span style="margin-right: 8px;">&#9679;</span> <!-- Bolinha preta -->
-    <span style="margin-right: 8px;">
-        <strong>GitHub</strong>
-        <img align="center" alt="GitHub" height="25" width="25" src="https://github.com/antoniogilberto/antoniogilberto/blob/main/imagens/github-logo-45146A3FBE-seeklogo.com.png">
-    </span>
-    <span style="margin-right: 8px;">&#9679;</span> <!-- Bolinha preta -->
-    <span>
-        <strong>VScode</strong>
-        <img align="center" alt="VScode" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    </span>
-</div>
 
 
 
